@@ -1,6 +1,9 @@
 # GHY 专题页面 Special Pages
 
 ## 1. 目录结构 Path Organization
+
+```
+
     --root--
         |--2014
         |--2015
@@ -14,4 +17,4 @@
         |   |   |   |--index.html
         |--2017
         
-        
+```
