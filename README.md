@@ -1,6 +1,6 @@
-# GHY 专题页面 Special Pages
+# GHY 专题页面 Special
 
-## 1. 目录结构 Path Organization
+## 1. 目录结构 Directory
 
 ```
 
